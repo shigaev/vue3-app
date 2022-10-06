@@ -1,0 +1,26 @@
+// bootstrap
+@use "../node_modules/bootstrap/scss/bootstrap-reboot";
+@use "../node_modules/bootstrap/scss/bootstrap-grid";
+// assets
+@use "fonts";
+@use "links";
+
+html {
+  height: 100%;
+
+  body {
+    height: 100%;
+    font-family: 'Roboto Regular', sans-serif;
+
+    #app {
+      height: 100%;
+      display: flex;
+      flex-direction: column;
+      flex-shrink: 0;
+
+      footer {
+        margin-top: auto;
+      }
+    }
+  }
+}

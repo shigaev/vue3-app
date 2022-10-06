@@ -1,0 +1,19 @@
+{
+  "theme": [
+    {
+      "title": "Js",
+      "slug": "js",
+      "description": "<p>Наша компания совместно с производителем Alfra GmbH <u>c 10-13 ноября</u> принимает участие в 14-ой Московской международной выставке инструментов, оборудования, технологий <u>MITEX 2021</u>.</p>\n<p><img loading=\"lazy\" class=\"alignnone  wp-image-5600\" src=\"https://alfra.ru/wp-content/uploads/2021/11/PHOTO-2021-11-10-16-41-39-600x449.jpg\" alt=\"\" width=\"398\" height=\"298\" srcset=\"https://alfra.ru/wp-content/uploads/2021/11/PHOTO-2021-11-10-16-41-39-600x449.jpg 600w, https://alfra.ru/wp-content/uploads/2021/11/PHOTO-2021-11-10-16-41-39-1200x897.jpg 1200w, https://alfra.ru/wp-content/uploads/2021/11/PHOTO-2021-11-10-16-41-39-150x112.jpg 150w, https://alfra.ru/wp-content/uploads/2021/11/PHOTO-2021-11-10-16-41-39-768x574.jpg 768w, https://alfra.ru/wp-content/uploads/2021/11/PHOTO-2021-11-10-16-41-39-1536x1148.jpg 1536w, https://alfra.ru/wp-content/uploads/2021/11/PHOTO-2021-11-10-16-41-39.jpg 1600w\" sizes=\"(max-width: 398px) 100vw, 398px\" /><img loading=\"lazy\" class=\"alignnone wp-image-5599\" src=\"https://alfra.ru/wp-content/uploads/2021/11/PHOTO-2021-11-10-16-41-41-1-600x449.jpg\" alt=\"\" width=\"401\" height=\"300\" srcset=\"https://alfra.ru/wp-content/uploads/2021/11/PHOTO-2021-11-10-16-41-41-1-600x449.jpg 600w, https://alfra.ru/wp-content/uploads/2021/11/PHOTO-2021-11-10-16-41-41-1-1200x897.jpg 1200w, https://alfra.ru/wp-content/uploads/2021/11/PHOTO-2021-11-10-16-41-41-1-150x112.jpg 150w, https://alfra.ru/wp-content/uploads/2021/11/PHOTO-2021-11-10-16-41-41-1-768x574.jpg 768w, https://alfra.ru/wp-content/uploads/2021/11/PHOTO-2021-11-10-16-41-41-1-1536x1148.jpg 1536w, https://alfra.ru/wp-content/uploads/2021/11/PHOTO-2021-11-10-16-41-41-1.jpg 1600w\" sizes=\"(max-width: 401px) 100vw, 401px\" /></p>\n<p>&nbsp;</p>\n<p>Компания Alfra &#8212; производитель и поставщик электрического инструмента и оборудования для перфорации и сверления металлов, подходящего для использования на материалах толщиной от 0,8 мм до 100 мм. Кроме того, они предлагают широкий спектр запатентованных магнитов и подъемной техники.</p>\n<p><u>Мы являемся официальным и единственным партнером компании «Alfra» в России.<br />\n</u><br />\nПриглашаем Вас посмотреть продукцию Alfra в ЦВК «ЭКСПОЦЕНТР» на стенде H104 .(Павильон 1)</p>\n<p><img loading=\"lazy\" class=\"alignnone size-medium wp-image-5601\" src=\"https://alfra.ru/wp-content/uploads/2021/11/Screenshot_8-600x459.png\" alt=\"\" width=\"600\" height=\"459\" srcset=\"https://alfra.ru/wp-content/uploads/2021/11/Screenshot_8-600x459.png 600w, https://alfra.ru/wp-content/uploads/2021/11/Screenshot_8-150x115.png 150w, https://alfra.ru/wp-content/uploads/2021/11/Screenshot_8-768x587.png 768w, https://alfra.ru/wp-content/uploads/2021/11/Screenshot_8.png 789w\" sizes=\"(max-width: 600px) 100vw, 600px\" /></p>\n"
+    },
+    {
+      "title": "Php",
+      "slug": "php",
+      "description": "<h1 class=\"desc\">Lorem php</h1>"
+    },
+    {
+      "title": "Sql",
+      "slug": "sql",
+      "description": "Lorem sql"
+    }
+  ]
+}
